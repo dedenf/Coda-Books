@@ -5,10 +5,10 @@
 	<key>ModeIdentifier</key>
 	<string>SEEMode.Python</string>
 	<key>SearchURLString</key>
-	<string>file:///Users/kenshin/playground/docs/html/search.html?q=*&amp;check_keywords=yes&amp;area=default</string>
+	<string>file:///path/to/docs/html/search.html?q=*&amp;check_keywords=yes&amp;area=default</string>
 	<key>Title</key>
 	<string>Django</string>
 	<key>URLString</key>
-	<string>file:///Users/kenshin/playground/docs/html/contents.html</string>
+	<string>file:///path/to/docs/html/contents.html</string>
 </dict>
 </plist>
