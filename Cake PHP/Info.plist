@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ModeIdentifier</key>
+	<string>SEEMode.PHP-HTML</string>
+	<key>SearchURLString</key>
+	<string>http://api.cakephp.org/search</string>
+	<key>Title</key>
+	<string>Cake PHP</string>
+	<key>URLString</key>
+	<string>http://book.cakephp.org/</string>
+</dict>
+</plist>

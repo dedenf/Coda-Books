@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ModeIdentifier</key>
+	<string>SEEMode.Python</string>
+	<key>SearchURLString</key>
+	<string>file:///Users/kenshin/playground/docs/html/search.html?q=*&amp;check_keywords=yes&amp;area=default</string>
+	<key>Title</key>
+	<string>Django</string>
+	<key>URLString</key>
+	<string>file:///Users/kenshin/playground/docs/html/contents.html</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ModeIdentifier</key>
+	<string>(none)</string>
+	<key>SearchURLString</key>
+	<string></string>
+	<key>Title</key>
+	<string>Codeigniter</string>
+	<key>URLString</key>
+	<string>http://codeigniter.com/user_guide/</string>
+</dict>
+</plist>
